@@ -1,0 +1,2 @@
+#!/bin/bash
+This java1 content add in the second branch[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[Cthis content was writen in the first branch
